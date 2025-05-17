@@ -1,6 +1,6 @@
 # Trabajo-Final-Desarrollo-Web
 
-Flores primaverales
+Plantas Medicinales
 
 En este trabajo se buscará poder conocer más respecto a diferentes plantas medicinales, mostrándolo de una manera llamativa e interactiva visualmente, con el fin de conocer más sobre sus características y beneficios.
 
@@ -9,7 +9,7 @@ El enfoque estará en:
 - Breve historia de su uso
 - Propiedades medicinales
 - Modo de preparación
-- Advertencia
+- Advertencias
 
 Fuentes de Información
 - Ministerio de Agricultura y FUCOA. https://www.fucoa.cl/publicaciones/hierbas_medicinales/2/
