@@ -17,6 +17,12 @@ Fuentes de Información
 
 
 Fuentes de Inspiración
+Diseño web: 
+- https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/?utm_source=chatgpt.com
+- https://www.reuters.com/graphics/CLIMATE-CHANGE/COMPANIES-EMISSIONS/myvmanyrkvr/?utm_source=chatgpt.com
+- https://www.reuters.com/graphics/CLIMATE-CHANGE/SEAGRASS/xklvyyeqjvg/?utm_source=chatgpt.com
+
+Diseño gráfico: 
 - https://cyclemon.com/index.html
 - http://www.species-in-pieces.com/#
 - https://dribbble.com/shots/23071484-Artspace-Book-Slider-Animation
