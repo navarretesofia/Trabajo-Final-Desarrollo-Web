@@ -2,7 +2,7 @@
 
 Plantas Medicinales
 
-En este trabajo se buscará poder conocer más respecto a diferentes plantas medicinales, mostrándolo de una manera llamativa e interactiva visualmente, con el fin de conocer más sobre sus características y beneficios.
+En este trabajo se buscará poder conocer más respecto a diferentes plantas medicinales, mostrándolo de una manera llamativa e interactiva visualmente, con el fin de conocer más sobre sus características y beneficios. El enfoque estará en sus diferentes beneficios, de modo que las plantas presentadas se categorizarán según el malestar que pueden aliviar, como por ejemplo en lo digestivo, respiratorio, renal, nervioso, analgésico, y cutáneo.
 
 El enfoque estará en:
 - Nombre común
