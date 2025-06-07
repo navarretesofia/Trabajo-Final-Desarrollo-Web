@@ -1,0 +1,145 @@
+[
+    {
+        "Nombre comun": "Albahaca",
+        "Nombre cientifico": "Ocimum basilicum L.",
+        "Uso ": "digestivo",
+        "Parte utilizada": "",
+        "Beneficios": "Favorece la digestión, previene y favorece la expulsión de gases en estomago e intestinos, calma los retortijones intestinales, impide el desarrollo de microbios, estimula o favorece el flujo menstrual, favorece la evacuación del vientre",
+        "Foco de uso": "",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada del\nvegetal para 1 litro de agua recién hervida",
+        "Modo de uso": "beber 1 taza 3 veces en el día",
+        "Precauciones": "no exceder las dosis recomendadas"
+    },
+    {
+        "Nombre comun": "Boldo",
+        "Nombre cientifico": "Peumus boldus Mol.",
+        "Uso ": "digestivo",
+        "Parte utilizada": "",
+        "Beneficios": "su uso en molestias gastrointestinales y hepáticas, así como sus propiedades anti-inflamatorias, están avalados\npor estudios clínicos",
+        "Foco de uso": "",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada para 1 litro de agua hirviendo",
+        "Modo de uso": "beber 1 taza 3 veces al día",
+        "Precauciones": "no usar en caso de obstrucción de la vía biliar (ictericia). No se recomienda su administración oral durante el embarazo ni en niños menores de 10 años. No usar por periodos prolongados de tiempo ni infusiones demasiado concentradas. En pacientes con cálculos renales usar sólo bajo vigilancia médica."
+    },
+    {
+        "Nombre comun": " Granado/Granada",
+        "Nombre cientifico": "Punica granatum L.",
+        "Uso ": "digestivo",
+        "Parte utilizada": "",
+        "Beneficios": "Elimina las lombrices intestinales, contrae y endurece los tejidos orgánicos, combate la infección causada por virus, favorece la digestión",
+        "Foco de uso": "",
+        "Modo de preparación": "La decocción (cocimiento) se prepara con 1 cucharada de la planta para 1 litro de agua, hervir 5 minutos",
+        "Modo de uso": "beber 3-4 tazas en el día, para expulsar la tenia tomar en ayunas, durante 3 días, una taza de decocción preparada con 2 cucharadas de planta.",
+        "Precauciones": "no administrar durante el embarazo, lactancia y a\nmenores de 5 años; no exceder las dosis terapéuticas ni el tiempo de tratamiento, ya que puede producir vértigo, disminución de la visión,\ndebilidad, calambres en las piernas y temblores convulsivos."
+    },
+    {
+        "Nombre comun": "Romero/Romero castilla",
+        "Nombre cientifico": "Rosmarinus officinalis L.",
+        "Uso ": "digestivo",
+        "Parte utilizada": "",
+        "Beneficios": "Calma los retortijones estomacales, destruye gérmenes en la piel o\nmucosas, estimula o favorece el flujo menstrual, promueve la circulación\nsanguínea superficial, previene y favorece la expulsión de gases.",
+        "Foco de uso": "",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua recién hervida",
+        "Modo de uso": "beber 1 taza 3 veces al día",
+        "Precauciones": "no es deseable su administración durante el\nembarazo; los pacientes con colitis y afecciones prostáticas deben evitar su consumo."
+    },
+    {
+        "Nombre comun": "Árnica",
+        "Nombre cientifico": "Arnica montana L.",
+        "Uso ": "anti-inflamatorio",
+        "Parte utilizada": "",
+        "Beneficios": "Disminuye el dolor",
+        "Foco de uso": "Sólo se usa en forma externa en moretones\n(hematomas) producidos por golpes, en hinchazón local (edema)\nasociado a fractura y en inflamación de mucosas (bucal, genital, anal).",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada de flores para 1 litro de agua hirviendo. ",
+        "Modo de uso": "Se usa en forma de lavado",
+        "Precauciones": "planta tóxica por vía oral (no debe tragarse), sólo\npara uso externo y en concentraciones diluidas. No usar en heridas abiertas. Puede producir reacciones alérgicas."
+    },
+    {
+        "Nombre comun": "Buchú",
+        "Nombre cientifico": "Agathosma betulina (Berg.) Pillans",
+        "Uso ": "anti-inflamatorio",
+        "Parte utilizada": "",
+        "Beneficios": "Destruye gérmenes de la piel y mucosas, promueve y aumenta la producción\nde orina, limpia de impurezas la sangre y otros humores corporales.",
+        "Foco de uso": "inflamación e infección\nde las vías urinarias, cistitis suaves;\ndolores reumáticos.",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada de hojas trituradas por 1 litro de agua recién hervida",
+        "Modo de uso": "beber 1 taza 3 veces al día.",
+        "Precauciones": "no exceder las dosis recomendadas."
+    },
+    {
+        "Nombre comun": "Maqui",
+        "Nombre cientifico": "Aristotelia chilensis (Mol.) Stuntz",
+        "Uso ": "anti-inflamatorio",
+        "Parte utilizada": "",
+        "Beneficios": "Disminuye el dolor, calma los retortijones estomacales, destruye\ngérmenes de la piel o mucosas, contrae y endurece los tejidos orgánicos.",
+        "Foco de uso": "Para inflamación de las amígdalas. ",
+        "Modo de preparación": "La infusión se prepara con 1 cucharadita de hojas secas trituradas, ó 2 hojas frescas, ó 1 cucharada de frutos, para 1 litro de agua recién\nhervida",
+        "Modo de uso": "Se hacen gargarismo con la misma infusión",
+        "Precauciones": "*no tiene"
+    },
+    {
+        "Nombre comun": "Radal",
+        "Nombre cientifico": "Lomatia hirsuta (Lam) Diles ex Macbr.",
+        "Uso ": "anti-inflamatorio",
+        "Parte utilizada": "",
+        "Beneficios": "Dilata los bronquios, impide el desarrollo de bacterias",
+        "Foco de uso": "afecciones respiratorias (tos, catarro,\nbronquitis, asma).",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua recién hervida (de ser posible endulzar con miel)",
+        "Modo de uso": "beber 1 taza 3 veces\nen el día.",
+        "Precauciones": "puede producir diarreas"
+    },
+    {
+        "Nombre comun": "Aloe",
+        "Nombre cientifico": "Aloe vera L. Burm. f.",
+        "Uso ": "cicatrizante",
+        "Parte utilizada": "",
+        "Beneficios": "laxante, cicatrizante, favorece la evacuación del vientre",
+        "Foco de uso": "Como cicatrizante de heridas menores,\nquemaduras u otro tipo de laceraciones",
+        "Modo de preparación": "Se aplica directamente en la piel.",
+        "Modo de uso": "",
+        "Precauciones": "no es aconsejable su empleo oral durante el\nembarazo, la lactancia y niños menores de 10 años ni cuando existan dolores abdominales, nauseas y vómitos. No se debe administrar a pacientes con enfermedad de Crohn, colitis ulcerativa y síndrome de colon irritable. Como todo laxante, no se debe utilizar en tratamientos por más de 1 a 2 semanas."
+    },
+    {
+        "Nombre comun": "Fumaria",
+        "Nombre cientifico": "Fumaria officinalis L.",
+        "Uso ": "cicatrizante",
+        "Parte utilizada": "",
+        "Beneficios": "Calma los retortijones estomacales, limpia de impurezas la sangre y otros\nhumores corporales.",
+        "Foco de uso": "en afecciones de la piel (urticaria, eccemas, granos\ny herpes).",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada de\nhojas y/o flores para 1 litro agua hirviendo",
+        "Modo de uso": "Se lava la zona afectada con la misma infusión",
+        "Precauciones": "no administrar durante el embarazo, lactancia ni a\nniños menores de 10 años. No administrar a pacientes con glaucoma,hipertensión arterial y arritmias cardíacas. No ingerir la infusión\ndemasiado concentrada."
+    },
+    {
+        "Nombre comun": "Matico/Pañil",
+        "Nombre cientifico": "Buddleja globosa Hope",
+        "Uso ": "cicatrizante",
+        "Parte utilizada": "",
+        "Beneficios": "Disminuye el dolor, combate las infecciones por hongos.",
+        "Foco de uso": "traumatismos y heridas de la piel",
+        "Modo de preparación": "La infusión se prepara con 1 cucharada de\nhojas para 1 litro de agua recién hervida",
+        "Modo de uso": "La misma infusión sirve para lavar heridas y en compresas para\ncontusiones y hematomas (moretones).",
+        "Precauciones": ""
+    },
+    {
+        "Nombre comun": "Rosa mosqueta/Mosqueta",
+        "Nombre cientifico": "Rosa moschata Herrm.",
+        "Uso ": "cicatrizante",
+        "Parte utilizada": "",
+        "Beneficios": "Contrae y endurece los tejidos orgánicos, ablanda o suaviza la piel.",
+        "Foco de uso": "úlceras tróficas, heridas\nquirúrgicas, eczemas y dermatitis de\ncontacto",
+        "Modo de preparación": " el aceite obtenido de\nsus semillas se usa como emoliente y\ncicatrizante",
+        "Modo de uso": "Se aplica directamente en la\nzona afectada 1 ó más veces al día",
+        "Precauciones": ""
+    },
+    {
+        "Nombre comun": "Canelo/Voigue",
+        "Nombre cientifico": "Drimys winteri J.R. et G.Forster",
+        "Uso ": "antibacteriano",
+        "Parte utilizada": "hojas-corteza",
+        "Beneficios": "Calma los retortijones estomacales, mata las bacterias o impide su desarrollo, elimina las lombrices intestinales, disminuye el dolor.",
+        "Foco de uso": "lombrices\nintestinales, desórdenes estomacales,\ndisentería (trastorno infeccioso con\ndiarrea sanguinolenta)",
+        "Modo de preparación": "",
+        "Modo de uso": "",
+        "Precauciones": ""
+    }
+]
