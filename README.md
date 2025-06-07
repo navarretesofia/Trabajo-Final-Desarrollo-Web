@@ -20,6 +20,8 @@ Fuentes de Información
 Fuentes de Inspiración
 Diseño web: 
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/?utm_source=chatgpt.com
+Voy a tomar como referencia la forma en que horizontalmente presentan los datos, además simulando que es la tierra donde estarían planatadas las plantas medicinales. (Horizontal.png)
+- 
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/COMPANIES-EMISSIONS/myvmanyrkvr/?utm_source=chatgpt.com
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/SEAGRASS/xklvyyeqjvg/?utm_source=chatgpt.com
 
