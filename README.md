@@ -1,4 +1,4 @@
-# Trabajo-Final-Desarrollo-Web
+![image](https://github.com/user-attachments/assets/ddcba40f-c5ce-4007-b3a0-6af26c5ec473)# Trabajo-Final-Desarrollo-Web
 
 Plantas Medicinales
 
@@ -22,7 +22,12 @@ Tomé como idea el representar la información a través de un recetario, pero e
 
 Para ello tomé como referencia gráfica las siguientes imágenes. 
 
-![Portada del recetario](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/Albahaca.png?raw=true)
+![Referencia 1](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref1.png?raw=true)
+![Referencia 2](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref2.jpg?raw=true)
+![Referencia 3](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref3.jpg?raw=true)
+![Referencia 4](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref4.jpg?raw=true)
+![Referencia 5](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref5.jpg?raw=true)
+![Referencia 6](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref6.jpg?raw=true)
 
 Diseño web: 
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/?utm_source=chatgpt.com
