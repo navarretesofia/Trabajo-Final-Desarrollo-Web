@@ -22,8 +22,7 @@ Tomé como idea el representar la información a través de un recetario, pero e
 
 Para ello tomé como referencia gráfica las siguientes imágenes. 
 
-![Portada del recetario](imagenes/portada.png)
-
+![Portada del recetario](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/Albahaca.png?raw=true)
 
 Diseño web: 
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/?utm_source=chatgpt.com
