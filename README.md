@@ -17,7 +17,14 @@ Fuentes de Información
 - Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias. https://vun.inifap.gob.mx/VUN_MEDIA/BibliotecaWeb/_media/_folletoinformativo/1044_4729_Plantas_medicinales_la_realidad_de_una_tradición_ancestral.pdf
 
 
-Fuentes de Inspiración
+Concepto gráfico detrás de la página:
+Tomé como idea el representar la información a través de un recetario, pero en vez de que fuese un simple "libro", consideré el visualizarlo los elementos a través de gráficas relacionadas a cartas y postales. 
+
+Para ello tomé como referencia gráfica las siguientes imágenes. 
+
+![Portada del recetario](imagenes/portada.png)
+
+
 Diseño web: 
 - https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/?utm_source=chatgpt.com
 Voy a tomar como referencia la forma en que horizontalmente presentan los datos, además simulando que es la tierra donde estarían planatadas las plantas medicinales. (Horizontal.png)
