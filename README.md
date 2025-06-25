@@ -22,8 +22,6 @@ Para ello tomé como referencia gráfica las siguientes imágenes.
 
 ![Referencia 1](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref1.png?raw=true)
 ![Referencia 2](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref2.jpg?raw=true)
-![Referencia 3](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref3.jpg?raw=true)
-![Referencia 4](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref4.jpg?raw=true)
 ![Referencia 5](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref5.jpg?raw=true)
 ![Referencia 6](https://github.com/navarretesofia/Trabajo-Final-Desarrollo-Web/blob/main/ref6.jpg?raw=true)
 
